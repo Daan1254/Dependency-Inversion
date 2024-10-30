@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solid_Principles", "Solid_Principles\Solid_Principles.csproj", "{90F65649-6B25-4C50-93CE-F50DC329917B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90F65649-6B25-4C50-93CE-F50DC329917B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90F65649-6B25-4C50-93CE-F50DC329917B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90F65649-6B25-4C50-93CE-F50DC329917B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90F65649-6B25-4C50-93CE-F50DC329917B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
